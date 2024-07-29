@@ -1,4 +1,4 @@
-# PYTHON - API CHALLENGE
+# PYTHON - API Project
 
 ## Overview
 This project consists of two main parts: WeatherPy and VacactionPy. The objective is to analyze weather data from over 500 cities worldwide and use this data to plan potential vacaion destinations. We will utilize various Python libraries such as citypy, OpenWeatherMap API, Geoapify API, and geoViews to gather, visualize, and analyze the data. 
